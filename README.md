@@ -1,4 +1,4 @@
-# 📖 FlipHTML5, PubHTML5 & Z-Kitap PDF Creator
+# 📖 FlipHTML5, PubHTML5 Z-Kitap PDF Creator
 
 Bu araç; **FlipHTML5**, **PubHTML5** ve çeşitli yayıncıların (Ata E-Kitap, Aydın Dijital vb.) **Z-Kitap** altyapılarında bulunan dijital materyalleri, ders kitaplarını ve dergileri tamamen yasal sınırlar dahilinde kendi bilgisayarınıza yüksek kaliteli **PDF** olarak kaydetmenizi sağlayan akıllı bir otomasyon scriptidir.
 
